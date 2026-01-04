@@ -104,10 +104,5 @@ Screenshots were captured to validate:
 
 ---
 
-## 📄 Resume Summary
-> Built a virtualized Active Directory home lab using Windows Server 2022 and Windows 11. Configured AD DS, managed users and groups, implemented Group Policy for department-based restrictions, automated administrative tasks with PowerShell, and simulated real-world IT support workflows.
-
----
-
 ## 📬 Contact
 Feel free to reach out if you'd like to discuss this lab, provide feedback, or collaborate.
